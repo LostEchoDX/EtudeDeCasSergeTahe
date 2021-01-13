@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pam-métier-simule", "pam-métier-simule\pam-métier-simule.csproj", "{EF9DDFA4-D1C6-4B55-BF49-B2FFC8A0FF41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pam-métier-simule", "pam-métier-simule\pam-métier-simule.csproj", "{EF9DDFA4-D1C6-4B55-BF49-B2FFC8A0FF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pam-dao", "pam-dao\pam-dao.csproj", "{169043A9-16D8-4B87-98ED-23ABEA9F0EAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EF9DDFA4-D1C6-4B55-BF49-B2FFC8A0FF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF9DDFA4-D1C6-4B55-BF49-B2FFC8A0FF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF9DDFA4-D1C6-4B55-BF49-B2FFC8A0FF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169043A9-16D8-4B87-98ED-23ABEA9F0EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169043A9-16D8-4B87-98ED-23ABEA9F0EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169043A9-16D8-4B87-98ED-23ABEA9F0EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169043A9-16D8-4B87-98ED-23ABEA9F0EAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

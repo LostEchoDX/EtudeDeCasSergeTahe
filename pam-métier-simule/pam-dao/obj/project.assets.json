@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LostE\\source\\repos\\EtudeDeCasSergeTahe\\pam-métier-simule\\pam-métier-simule\\pam-métier-simule.csproj",
-      "projectName": "pam-métier-simule",
-      "projectPath": "C:\\Users\\LostE\\source\\repos\\EtudeDeCasSergeTahe\\pam-métier-simule\\pam-métier-simule\\pam-métier-simule.csproj",
+      "projectUniqueName": "C:\\Users\\LostE\\source\\repos\\EtudeDeCasSergeTahe\\pam-métier-simule\\pam-dao\\pam-dao.csproj",
+      "projectName": "pam-dao",
+      "projectPath": "C:\\Users\\LostE\\source\\repos\\EtudeDeCasSergeTahe\\pam-métier-simule\\pam-dao\\pam-dao.csproj",
       "packagesPath": "C:\\Users\\LostE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LostE\\source\\repos\\EtudeDeCasSergeTahe\\pam-métier-simule\\pam-métier-simule\\obj\\",
+      "outputPath": "C:\\Users\\LostE\\source\\repos\\EtudeDeCasSergeTahe\\pam-métier-simule\\pam-dao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LostE\\AppData\\Roaming\\NuGet\\NuGet.Config",
