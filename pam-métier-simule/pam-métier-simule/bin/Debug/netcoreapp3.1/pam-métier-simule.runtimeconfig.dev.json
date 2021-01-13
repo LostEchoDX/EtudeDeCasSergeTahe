@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\LostE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\LostE\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\bin\Debug\netcoreapp3.1\pam-métier-simule.exe
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\bin\Debug\netcoreapp3.1\pam-métier-simule.deps.json
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\bin\Debug\netcoreapp3.1\pam-métier-simule.runtimeconfig.json
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\bin\Debug\netcoreapp3.1\pam-métier-simule.runtimeconfig.dev.json
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\bin\Debug\netcoreapp3.1\pam-métier-simule.dll
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\bin\Debug\netcoreapp3.1\pam-métier-simule.pdb
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\obj\Debug\netcoreapp3.1\pam-métier-simule.csprojAssemblyReference.cache
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\obj\Debug\netcoreapp3.1\pam-métier-simule.AssemblyInfoInputs.cache
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\obj\Debug\netcoreapp3.1\pam-métier-simule.AssemblyInfo.cs
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\obj\Debug\netcoreapp3.1\pam-métier-simule.csproj.CoreCompileInputs.cache
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\obj\Debug\netcoreapp3.1\pam-métier-simule.dll
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\obj\Debug\netcoreapp3.1\pam-métier-simule.pdb
+C:\Users\LostE\source\repos\pam-métier-simule\pam-métier-simule\obj\Debug\netcoreapp3.1\pam-métier-simule.genruntimeconfig.cache
